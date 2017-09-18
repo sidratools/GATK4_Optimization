@@ -1,5 +1,0 @@
-#!/bin/bash
-## This file is used to modify the running script w.r.t. to the sample name
-# current sample name gcat42
-# update sample name gcat_set_042
-sed -i 's/gcat42/gcat_set_042/g' *.sh
